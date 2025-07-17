@@ -18,6 +18,7 @@ CI/CD • AWS • GCP
 • Sistemas de saúde
 • Análise de dados e inteligência artificial  
 • Desenvolvimento de sistemas administrativos GOV
+• Sistemas personalizáveis - web/mobile
 
 # Projetos em destaque
 • Sistema Administrativo (Plataforma para criação e gestão de sites institucionais com foco em transparência pública) - *2 Clientes em produção*
