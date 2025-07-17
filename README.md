@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Arthur Alcântara
+# Olá, eu sou Arthur Alcântara 👋 
 
 Sou desenvolvedor fullstack com 4 anos de experiencia, com foco em automações, apaixonado por soluções que envolvem dados, inteligência e impacto real.
 
